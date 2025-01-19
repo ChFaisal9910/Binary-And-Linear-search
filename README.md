@@ -51,4 +51,5 @@ Output:
 ```  
 Linear Search: Element found at index 2  
 ```  
-
+### LinkedIn Post:
+ (https://www.linkedin.com/posts/faisal-khalid-virtual-assistant-3202b124a_understanding-search-algorithms-binary-activity-7286770037841948673-AVSG?utm_source=share&utm_medium=member_android)
